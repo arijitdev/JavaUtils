@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tests>
+	<test name="Addition">
+		<method>testAdd</method>
+		<flag>Y</flag>
+	</test>
+	<test name="Substraction">
+		<method>testSubstract</method>
+		<flag>N</flag>
+	</test>
+	<test name="Multiplication">
+		<method>testMultiply</method>
+		<flag>Y</flag>
+	</test>
+</tests>
